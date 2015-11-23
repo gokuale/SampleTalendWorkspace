@@ -1,0 +1,16 @@
+CLOSE_EDITORS_ON_EXIT=true
+CheatSheetUtils=true
+Connections.new=[{"complete"\:true,"description"\:"Default connection","dynamicFields"\:{},"id"\:"local","name"\:"Local","password"\:"","user"\:"raksharma@expedia.com"}]
+LICENSE_VALIDATION_DONE=1
+LOGINCOUNT=8
+PREFERENCE_TALEND_FORCE_SHOW_LOGON_DIALOG=true
+PREFERENCE_TALEND_LOGON_STARTUP_TIMES=26
+REGISTRATION_DONE=1
+eclipse.preferences.version=1
+lastUSedProject=Local_Project
+last_started_project_type=DQ
+logonDialog.alwaysAskMeAtStartUp=true
+presentationFactoryId=org.talend.rcp.presentationfactory
+showIntro=false
+user@talend.com=raksharma@expedia.com\:raksharma\:72405c99c508050772c76105fdff01aa07952dc8
+workspaceTasksDone=org.talend.repository.svnprovider.migration.ChangeProjectTechinicalName4Svn|org.talend.repository.model.migration.ChangeProjectTechinicalName|org.talend.amc.plugin.migration.UnifyPasswordEncryption4AmcConnectionMigrationTask|org.talend.designer.core.ui.preferences.migration.AddQuotesForStatLogsPreference|org.talend.migrationTool.InitWorkspaceMigrationTask|org.talend.core.InitConnectionsMigrationTask|org.talend.core.EmptyConnectionsMigrationTask|org.talend.designer.runprocess.migrationtask.changeClasspath

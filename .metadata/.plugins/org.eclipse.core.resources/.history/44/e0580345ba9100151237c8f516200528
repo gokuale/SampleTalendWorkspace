@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
+  <TalendProperties:Property xmi:id="_2umy8IElEeWHhsr0BvnnWw" id="_2ujvoIElEeWHhsr0BvnnWw" label="MyFirstJob" purpose="My First Job" description="My First Job" creationDate="2015-11-02T11:22:09.117+0530" modificationDate="2015-11-23T12:21:06.666+0530" version="0.2" statusCode="TEST" item="_2umy8oElEeWHhsr0BvnnWw" displayName="MyFirstJob">
+    <author href="../talend.project#_ekb1gH7WEeWsq6aVmZdJMw"/>
+  </TalendProperties:Property>
+  <TalendProperties:ItemState xmi:id="_2umy8YElEeWHhsr0BvnnWw" path="" locked="true" lockDate="2015-11-23T12:16:48.056+0530">
+    <locker href="../talend.project#_fEqZsY9pEeWoXYmDs23SUQ"/>
+  </TalendProperties:ItemState>
+  <TalendProperties:ProcessItem xmi:id="_2umy8oElEeWHhsr0BvnnWw" property="_2umy8IElEeWHhsr0BvnnWw" state="_2umy8YElEeWHhsr0BvnnWw">
+    <process href="MyFirstJob_0.2.item#/"/>
+  </TalendProperties:ProcessItem>
+</xmi:XMI>
